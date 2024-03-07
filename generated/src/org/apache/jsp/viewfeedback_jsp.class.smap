@@ -1,0 +1,21 @@
+SMAP
+viewfeedback_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewfeedback.jsp
+viewfeedback.jsp
++ 1 adminNav.jsp
+adminNav.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,25:54
+5#1,30:79
+46,18:109
+29#0,11:126
+40,19:138
+58,8:157
+5#2,66:164
+65#0:229
+*E

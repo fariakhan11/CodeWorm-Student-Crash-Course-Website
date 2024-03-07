@@ -1,0 +1,16 @@
+SMAP
+videosds_jsp.java
+JSP
+*S JSP
+*F
++ 0 videosds.jsp
+videosds.jsp
++ 1 navbar.jsp
+navbar.jsp
+*L
+5,24:49
+5#1,61:73
+28#0,64:133
+92,3:198
+94,9:201
+*E
